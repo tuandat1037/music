@@ -1,1 +1,267 @@
-
+[
+  {
+    "id": 1,
+    "title": "Ai Mới Là Kẻ Xấu Xa",
+    "artist": "MCK",
+    "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/aimoilakexauxa.jpg",
+    "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/aimoilakexauxa.mp3",
+    "duration": "03:11"
+  },
+  {
+    "id": 2,
+    "title": "Một Cái Ôm",
+    "artist": "MCK",
+    "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/1caiom.jpg",
+    "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/1caiom.mp3",
+    "duration": "03:22"
+  },
+    {
+        "id": 3,
+        "title": "Anh Không Muốn Dễ Dàng",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/anhkomuondedang.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/anhkomuondedang.mp3",
+        "duration": "02:47"
+    },
+    
+    {
+        "id": 4,
+        "title": "Baby",
+        "artist": "MCK ft marzuz",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/baby.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/baby.mp3",
+        "duration": "02:53"
+    },
+    {
+        "id": 5,
+        "title": "Cảm Ơn",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/camon.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/camon.mp3",
+        "duration": "02:39"
+    },
+    {
+        "id": 6,
+        "title": "Che Phủ",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/chephu.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/chephu.mp3",
+        "duration": "02:35"
+    },
+    {
+        "id": 7,
+        "title": "Đao Của Anh Vừa",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/daoanhvua.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/daoanhvua.mp3",
+        "duration": "02:04"
+    },
+    {
+        "id": 8,
+        "title": "Dưa Chua",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/duachua.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/duachua.mp3",
+        "duration": "03:07"
+    },
+    {
+        "id": 9,
+        "title": "Elegie",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/elegie.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/elegie.mp3",
+        "duration": "01:29"
+    },
+    {
+        "id": 10,
+        "title": "Envy",
+        "artist": "MCK ft THANHDRAW",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/envy.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/envy.mp3",
+        "duration": "03:55"
+    },
+    {
+        "id": 11,
+        "title": "Ghet Xong Lai Thik",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/ghetxongthik.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/ghetxongthik.mp3",
+        "duration": "01:53"
+    },
+    {
+        "id": 12,
+        "title": "Huh",
+        "artist": "MCK ft RPT ORIJINN  THANHDRAW",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/uhu.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/huh.mp3",
+        "duration": "04:11"
+    },
+    {
+        "id": 13,
+        "title": "Hút và Hút",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/hutvahut.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/hutvahut.mp3",
+        "duration": "02:57"
+    },
+    {
+        "id": 14,
+        "title": "IDK",
+        "artist": "MCK OFFICIAL MUSIK VIDEO",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/idk.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/idk.mp3",
+        "duration": "06:07"
+    },
+    {
+        "id": 15,
+        "title": "IDK",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/idk1.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/idk1.mp3",
+        "duration": "03:16"
+    },
+    {
+        "id": 16,
+        "title": "Intenpol",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/intenpol.png",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/intenpol.mp3",
+        "duration": "00:57"
+    },
+    {
+        "id": 17,
+        "title": "Không Cần Lo Cho Tao",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/kocanlochotao.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/kocanlochotao.mp3",
+        "duration": "02:40"
+    },
+    {
+        "id": 18,
+        "title": "Là Gì Của Nhau",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/lagicuanhau1.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/lagicuanhau1.mp3",
+        "duration": "02:21"
+    },
+    {
+        "id": 19,
+        "title": "Liệm",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/liem.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/liem.mp3",
+        "duration": "03:54"
+    },
+    {
+        "id": 20,
+        "title": "Mắt Môi Tay Chân",
+        "artist": "MCK ft Tage",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/matmoi.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/matmoi.mp3",
+        "duration": "03:14"
+    },
+    {
+        "id": 21,
+        "title": "Mắt Môi Tay Chân",
+        "artist": "MCK ft TAGE OFFICIAL MUSIC VIDEO",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/matmoift.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/matmoift.mp3",
+        "duration": "03:41"
+    },
+    {
+        "id": 22,
+        "title": "Nếu Như Ta Chẳng Còn",
+        "artist": "MCK ft AAP Ướt Mi",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/neunhutachangcon.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/neunhutachangcon.mp3",
+        "duration": "05:14"
+    },
+    {
+        "id": 23,
+        "title": "NHÌN KẺ THÙ CỦA TAO",
+        "artist": "MCK OFFICIAL MUSIC VIDEO",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/nhinkethu.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/nhinkethu.mp3",
+        "duration": "04:28"
+    },
+    {
+        "id": 24,
+        "title": "NHÌN KẺ THÙ CỦA TAO",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/nhinkethu1.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/nhinkethu1.mp3",
+        "duration": "03:58"
+    },
+    {
+        "id": 25,
+        "title": "Night In Prague",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/night.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/night.mp3",
+        "duration": "03:33"
+    },
+    {
+        "id": 26,
+        "title": "OANH M THUOC",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/oanhmthuoc.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/oanhmthuoc.mp3",
+        "duration": "03:55"
+    },
+    {
+        "id": 27,
+        "title": "SLIPPERY",
+        "artist": "MCK ft TÙNG DƯƠNG OFFICIAL MUSIC VIDEO",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/slippery.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/slippery.mp3",
+        "duration": "04:30"
+    },
+    {
+        "id": 28,
+        "title": "Tây Thi",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/taythi.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/taythi.mp3",
+        "duration": "01:47"
+    },
+    {
+        "id": 29,
+        "title": "Thịt Lợn",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/thitlon.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/thitlon.mp3",
+        "duration": "03:48"
+    },
+    {
+        "id": 30,
+        "title": "Wtf Bby Im Lit",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/wtf.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/wtf.mp3",
+        "duration": "02:47"
+    },
+    {
+        "id": 31,
+        "title": "Xa Xôi",
+        "artist": "MCK ft Obito",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/xaxoi.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/xaxoi.mp3",
+        "duration": "03:38"
+    },
+    {
+        "id": 32,
+        "title": "Yêu Anh Giết Anh",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/yeuanhgietanh.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/yeuanhgietanh.mp3",
+        "duration": "02:47"
+    },
+    {
+        "id": 33,
+        "title": "Nguyễn Văn Mười",
+        "artist": "MCK",
+        "cover": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/covers/yourname.jpg",
+        "url": "https://pub-47f8ba51ef374f45b61677824ea604cf.r2.dev/music/yourname.mp3",
+        "duration": "04:01"
+    }
+]
