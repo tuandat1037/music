@@ -1,11 +1,28 @@
 @media (max-width: 768px) {
-    .container { padding: 10px; height: calc(100vh - 140px); }
-    .header { flex-direction: column; gap: 15px; align-items: stretch; }
+    .container { 
+        padding: 10px; 
+        height: calc(100vh - 160px); /* Tăng lên 160px để chừa chỗ cho thanh player mobile */
+    }
+    .header { 
+        flex-direction: column; 
+        gap: 15px; 
+        align-items: stretch; 
+    }
     .search-box { width: 100%; }
-    .player-bar { height: 140px; flex-direction: column; justify-content: center; padding: 10px; }
+    .player-bar { 
+        height: 140px; 
+        flex-direction: column; 
+        justify-content: center; 
+        padding: 10px; 
+    }
     .player-info, .player-controls, .player-volume { width: 100%; }
     .player-info { justify-content: center; margin-bottom: 10px; }
     .player-volume { display: none; }
     .control-buttons { gap: 10px; }
     .player-info img { width: 40px; height: 40px; }
+    
+    /* Tăng khoảng đệm dưới cùng trên mobile */
+    .playlist-section {
+        padding-bottom: 60px;
+    }
 }
